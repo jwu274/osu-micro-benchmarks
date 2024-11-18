@@ -1,5 +1,11 @@
 # osu-micro-benchmarks
-OSU Micro-Benchmark Suite for evaluating MPI, PAPI, and OpenSHMEM communication performance. Developed by the Ohio State University 
+OSU Micro-Benchmark Suite for evaluating MPI, PAPI, and OpenSHMEM communication performance. Developed by the Ohio State University.
+
+Making a public repo for tracking modifications and changes     
+
+This Code is from https://mvapich.cse.ohio-state.edu/benchmarks/ 
+
+See latest updates here: http://mvapich.cse.ohio-state.edu/static/media/mvapich/CHANGES-OMB.txt
 
 OMB (OSU Micro-Benchmarks)
 --------------------------
