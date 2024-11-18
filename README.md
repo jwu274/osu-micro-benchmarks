@@ -7,6 +7,8 @@ This Code is from https://mvapich.cse.ohio-state.edu/benchmarks/
 
 See latest updates here: http://mvapich.cse.ohio-state.edu/static/media/mvapich/CHANGES-OMB.txt
 
+https://mvapich.cse.ohio-state.edu/static/media/mvapich/mvapich2-userguide.pdf
+
 OMB (OSU Micro-Benchmarks)
 --------------------------
 The OSU Micro-Benchmarks use the GNU build system. Therefore you can simply
